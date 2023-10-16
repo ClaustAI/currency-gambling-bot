@@ -1,0 +1,18 @@
+[
+    {
+        "code": "1",     
+        "name": "color role",
+        "price": 10000
+    },
+    {
+        "code": "2",      
+        "name": "Custom emoji",
+        "price": 15000
+    },
+    {
+        "code": "3",         
+        "name": "Role Icon",
+        "price": 20000
+    }
+
+]

@@ -1,0 +1,3 @@
+Future ideas with descriptions:
+
+1. a shop command with buy subcommand that will have many buyable things init. Might be usable to buy boosts for the future gambling commands.
